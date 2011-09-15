@@ -44,5 +44,5 @@ release: $(CINDER_PATH)/lib/libcinder.a
 
 ###preprocessor macros
 
-__ASSERTMACROS__
-(this will a harmless warning: "__ASSERTMACROS__" redefined)
+\_\_ASSERTMACROS\_\_
+(this will a harmless warning: "\_\_ASSERTMACROS\_\_" redefined)
