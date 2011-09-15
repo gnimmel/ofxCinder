@@ -46,3 +46,4 @@ release: $(CINDER_PATH)/lib/libcinder.a
 
 \_\_ASSERTMACROS\_\_
 (this will a harmless warning: "\_\_ASSERTMACROS\_\_" redefined)
+<!-- in plain text as opposed to markdown format this should read __ASSERTMACROS__-->
